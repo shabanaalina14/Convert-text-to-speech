@@ -16,4 +16,13 @@ gTTS (Google Text-to-Speech): The Google TTS engine for text-to-speech conversio
 pyttsx3: Another TTS engine for offline functionality.
 SpeechRecognition: (Optional) For speech-to-text functionality if you want to add speech input.
 
-https://github.com/shabanaalina14/Convert-text-to-speech/tree/main
+
+git clone https://github.com/shabanaalina14/Convert-text-to-speech/tree/main
+
+Contact For any questions or suggestions, please feel free to reach.
+
+Gmail: shabanaalina14@gmail.com
+
+GitHub Profile: shabanaalina14
+
+Happy Coding!
